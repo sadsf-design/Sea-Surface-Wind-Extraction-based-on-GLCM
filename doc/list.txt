@@ -1,0 +1,5 @@
+assignment
+list.txt
+paper
+slides
+Useful code from ex 2
